@@ -1,0 +1,5 @@
+wikipedia.sqlite3
+__pycache__/
+*.png
+*.sqlite3
+*.backup

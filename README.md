@@ -1,6 +1,6 @@
 # WIKIGAMER
 
-The wikigame is simply stated as finding the shortest path in the Wikipedia graph. In more concrete terms: finding the least number of hops from one page to another. Some variations are "fewest clicks", "fastest time" and "fewest clicks to Jesus" (or if you're feeling edgy, fewest to Hitler).
+The wikigame is simply stated as finding the shortest path between two nodes in the Wikipedia graph. In more concrete terms: finding the least number of hops from one page to another. Some variations are "fewest clicks", "fastest time" and "fewest clicks to Jesus" (or if you're feeling edgy, fewest to Hitler).
 
 Some rules:
 
